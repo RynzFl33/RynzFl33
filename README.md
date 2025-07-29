@@ -10,7 +10,7 @@ I'm a 18-year-old aspiring web developer from Siem Reap, Cambodia 🇰🇭, pass
 - 🌐 Exploring front-end frameworks and modern web tools  
 - 📚 Grade 10 student combining school and self-taught coding  
 - 📍 Based in Siem Reap, Cambodia  
-- 🎂 Age: 17
+- 🎂 Age: 18
 
 ---
 
