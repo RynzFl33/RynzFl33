@@ -1,6 +1,6 @@
 👋 Hello, I'm Sok Kimlong — aka LoNg
 
-I'm a 17-year-old aspiring web developer from Siem Reap, Cambodia 🇰🇭, passionate about building websites and turning ideas into reality through code. I'm currently focused on mastering web fundamentals and growing my skill set every single day.
+I'm a 18-year-old aspiring web developer from Siem Reap, Cambodia 🇰🇭, passionate about building websites and turning ideas into reality through code. I'm currently focused on mastering web fundamentals and growing my skill set every single day.
 
 ---
 
